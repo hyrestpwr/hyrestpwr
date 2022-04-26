@@ -1,7 +1,7 @@
-# Hi there , I'm Aris Lesnar 
-![profile count](https://komarev.com/ghpvc/?username=ariscik&color=red)&nbsp;
-[![GitHub JaylenOzi](https://img.shields.io/github/followers/ariscik?label=follow&style=social)](https://github.com/ariscik)&nbsp;
-<a href="https://instagram.com/ariscikmis"><img src="https://img.shields.io/badge/@ariscikmis-E4405F?style=flat&logo=Instagram&logoColor=white"/></a> &nbsp;
+# Hi there , I'm Hyrest
+![profile count](https://komarev.com/ghpvc/?username=hyrest&color=red)&nbsp;
+[![GitHub JaylenOzi](https://img.shields.io/github/followers/hyrest?label=follow&style=social)](https://github.com/hyrest.pwr)&nbsp;
+<a href="https://instagram.com/hyrestxd"><img src="https://img.shields.io/badge/@hyrest.pwr-E4405F?style=flat&logo=Instagram&logoColor=white"/></a> &nbsp;
 
 My Server
 https://discord.gg/1953
@@ -16,6 +16,6 @@ https://discord.gg/1953
 
 <h3 align="left">:bar_chart: GitHub Stats:</h3>
 <p align="left">
-   <img src="https://github-readme-stats.vercel.app/api?username=ariscik&count_private=true&show_icons=true&theme=dark&hide_border=true" width="%100" height="150px" alt="stats" />
-<img src="https://github-profile-trophy.vercel.app/?username=ariscik&theme=radical" />
+   <img src="https://github-readme-stats.vercel.app/api?username=hyrestk&count_private=true&show_icons=true&theme=dark&hide_border=true" width="%100" height="150px" alt="stats" />
+<img src="https://github-profile-trophy.vercel.app/?username=hyrest&theme=radical" />
 </p>
